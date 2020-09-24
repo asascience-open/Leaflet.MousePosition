@@ -1,0 +1,22 @@
+{
+  "name": "leaflet.mouseposition",
+  "version": "0.0.1",
+  "description": "Leaflet.MousePosition is a simple mouse position control that you can drop into your leaflet map. It displays geographic coordinates of the mouse pointer, as it is moved about the map.",
+  "main": "src/L.Control.MousePosition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asascience-open/Leaflet.MousePosition.git"
+  },
+  "keywords": [
+    "Leaflet"
+  ],
+  "author": "Luke Campbell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asascience-open/Leaflet.MousePosition/issues"
+  },
+  "homepage": "https://github.com/asascience-open/Leaflet.MousePosition#readme"
+}
