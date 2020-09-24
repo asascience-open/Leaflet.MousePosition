@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukecampbell/Leaflet.MousePosition.git"
+    "url": "git+https://github.com/asascience-open/Leaflet.MousePosition.git"
   },
   "keywords": [
     "Leaflet"
@@ -16,7 +16,7 @@
   "author": "Luke Campbell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukecampbell/Leaflet.MousePosition/issues"
+    "url": "https://github.com/asascience-open/Leaflet.MousePosition/issues"
   },
-  "homepage": "https://github.com/lukecampbell/Leaflet.MousePosition#readme"
+  "homepage": "https://github.com/asascience-open/Leaflet.MousePosition#readme"
 }
